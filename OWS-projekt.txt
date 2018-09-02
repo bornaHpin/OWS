@@ -1,0 +1,10 @@
+OWS PROJEKT PIZZERIA
+    
+GOOGLE FONTS <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+
+Stranice sa kojih su preuzete slike
+https://coolors.co/32292f-6e7dab-575366-5762d5-d1e3dd
+https://gratisography.com/
+https://www.pexels.com/search/pizza/
+
+
